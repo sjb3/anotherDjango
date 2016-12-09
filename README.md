@@ -9,9 +9,16 @@ after django-admin startproject 'projectname';
 
 3) go to urls.py and set path and url
 
-### [About this](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+### About this
 
+Created the mini blog/diary for myself with minimum css/scss to learn about web dev environment in python-django framework
+
+(tutorial link is below)
+
+*stretch goal*: add more css, fontawesome and other library to make it more visually dynamic/enticing
 
 [adapted from youTube tutorial](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
-<a href="https://www.youtube.com/watch?v=FNQxxpM1yOs&index=1&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd" target="_blank"></a>
+#### ```python3 manage.py runserver```
+
+#### type in the URL's in the browser for the website
