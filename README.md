@@ -1,3 +1,5 @@
+![alt text](./mysite/personal/static/personal/img/2.jpg)
+
 # written with python3(3.5.2) and django
 
 ## Basic Tut's
@@ -15,10 +17,10 @@ Created the mini blog/diary for myself with minimum css/scss to learn about web 
 
 (tutorial link is below)
 
-*stretch goal*: add more css, fontawesome and other library to make it more visually dynamic/enticing
+####*stretch goal*: add more css, fontawesome and other library to make it more visually dynamic/enticing
 
 [adapted from youTube tutorial](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
-#### ```python3 manage.py runserver```
+1)```python3 manage.py runserver```
 
-#### type in the URL's in the browser for the website
+2) type in the URL's in the browser for the website
