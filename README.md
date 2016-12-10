@@ -21,6 +21,6 @@ Created the mini blog/diary for myself with minimum css/scss to learn about web 
 
 [adapted from youTube tutorial](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 
-1)```python3 manage.py runserver```
+1)```$ python3 manage.py runserver```
 
 2) type in the URL's in the browser for the website
